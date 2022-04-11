@@ -53,7 +53,7 @@ li.nav-links a:hover {
 }
 
 /* GOOGLE AREA */
-.google #google_logo {
+.google-image #google_logo {
   text-align: center;
   display: block;
   margin: 0 auto;
@@ -62,7 +62,7 @@ li.nav-links a:hover {
   padding-bottom: 20px;
 }
 
-.form {
+.form-search {
   text-align: center;
 }
 
@@ -88,7 +88,7 @@ li.nav-links a:hover {
 }
 
 /* FOOTER */
-footer  {
+.footer {
   background: #f2f2f2;
   border-top: solid 2px #e4e4e4;
 /*   position: fixed; */
@@ -116,6 +116,7 @@ footer ul a:hover {
 
 .footer-right {
   float: right;
+
 }
 
 /* MEDIA QUERIES */
