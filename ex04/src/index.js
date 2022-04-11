@@ -6,10 +6,10 @@ function myArr(mili){
 	milili[0] = 4;
 	milili[1] = 10;
 	milili[2] = 25;
-	return mili;
+	console.log(mili);
 	
 }
 
-console.log(myArr(milili));
+myArr(milili);
 // Only change code above this line
 module.exports = myArr;
